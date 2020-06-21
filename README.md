@@ -5,7 +5,7 @@ My custom made style.css file used in my portfolio
 
 raw style file link [style.css](https://raw.githubusercontent.com/BeanGreen247/portfolio-style-css/master/style.css)
 
-raw icon files link [icons](https://raw.githubusercontent.com/BeanGreen247/portfolio-style-css/master/icons)
+raw icon files link [icons](https://github.com/BeanGreen247/portfolio-style-css/tree/master/icons)
 
 ## Style usage
 ## Sidebar navigation Menu button
