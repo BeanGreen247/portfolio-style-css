@@ -27,7 +27,7 @@ raw icon files link [icons](https://github.com/BeanGreen247/portfolio-style-css/
 ```html
 <div id="mySidenav" class="sidenav">
         <div class="menuclosebuttonstyle">
-        <a href="#top" class="closebtn">x</a>
+        <a class="closebtn">x</a>
         </div>
         <a href="#topNav">Home</a>
         <a href="#about">About</a>
